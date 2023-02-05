@@ -1,0 +1,3 @@
+../Core/Src/FUNCTIONS.c:15:6:bufclr	24	static
+../Core/Src/FUNCTIONS.c:24:6:ESP_Init	96	static
+../Core/Src/FUNCTIONS.c:54:6:ESP_GetData	160	static
